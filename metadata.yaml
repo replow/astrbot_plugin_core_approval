@@ -1,0 +1,6 @@
+name: astrbot_plugin_core_approval
+display_name: AstrBot 核心增强 · 管理员确认
+version: "1.0.0"
+description: 主模型与子代理共用的管理员私聊确认工具，按操作、目标与取值核验授权。
+author: Replow
+astrbot_version: ">=4.27.3"

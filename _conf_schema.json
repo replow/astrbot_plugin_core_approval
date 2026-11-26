@@ -1,0 +1,14 @@
+{
+  "approver_platform_id": {
+    "description": "审批平台实例 ID",
+    "hint": "填写 AstrBot 消息平台中的 OneBot v11（aiocqhttp）实例 ID，例如 qq-bot。此处填写实例 ID。",
+    "type": "string",
+    "default": ""
+  },
+  "approver_qq": {
+    "description": "审批管理员 QQ 号",
+    "hint": "该 QQ 号必须同时存在于 AstrBot 基础配置的管理员 ID 列表中。",
+    "type": "string",
+    "default": ""
+  }
+}
